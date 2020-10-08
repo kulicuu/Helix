@@ -1,0 +1,21 @@
+{
+    "dependencies": {
+        "bash-color": "0.0.4",
+        "coffee-loader": "1.0.0",
+        "coffeescript": "2.5.1",
+        "create-react-class": "15.6.3",
+        "event-emitter": "0.3.5",
+        "immutable": "latest",
+        "lodash": "4.17.20",
+        "primus": "7.3.5",
+        "prompts": "2.3.2",
+        "react": "16.13.1",
+        "react-dom": "16.13.1",
+        "react-redux": "7.2.1",
+        "redux": "4.0.5",
+        "redux-immutable": "latest",
+        "redux-thunk": "latest",
+        "shortid": "2.2.15",
+        "ws": "7.3.1"
+    }
+}
