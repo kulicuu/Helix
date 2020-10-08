@@ -34,14 +34,6 @@ window.rr = -> React.createFactory(create_react_class.apply(React, arguments))
 window.rc = -> React.createFactory.apply(React, arguments)
 
 
-# dom_stuff = {
-# p, form, strong, pre, div, h1, h2, h3, h4, h5, h6, span, svg, circle,
-# tspan, rect, ul, line, li, ol, code, a, input, defs, clipPath,
-# body, linearGradient, stop, g, path, d, polygon, image, pattern,
-# filter, feBlend, feOffset, polyline, feGaussianBlur, feBlend, feMergeNode,
-# feMerge, radialGradient, foreignObject, text, textArea, ellipse,
-# pattern, thead, th, tr, tbody
-# } = react_dom_factories
 
 dom_stuff_str = [
     "p", "form", "strong", "pre", "div", "h1", "h2", "h3", "h4", "h5", "h6", "span", "svg", "circle",
