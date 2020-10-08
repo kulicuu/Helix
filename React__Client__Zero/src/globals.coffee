@@ -53,7 +53,8 @@ dom_stuff_str = [
 ]
 
 
-for k, idx of dom_stuff_str
+for idx, k of dom_stuff_str
+
     window[k] = React.createFactory k
 
 
